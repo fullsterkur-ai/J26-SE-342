@@ -72,7 +72,7 @@ Each part of the system lives in its own repository.
 
 ## Development
 
-For coding conventions, branching and merging strategy, please refer to [DEVELOPMENT.md](DEVELOPOMENT.md)
+For coding conventions, branching and merging strategy, please refer to [DEVELOPMENT.md](DEVELOPMENT.md)
 
 ## Team
 
